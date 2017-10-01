@@ -1,0 +1,22 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Flashcard Game",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesRMc/Flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesRMc/Flashcards/issues"
+  },
+  "homepage": "https://github.com/CharlesRMc/Flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}

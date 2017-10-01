@@ -1,8 +1,5 @@
-var firstPresident = new BasicCard(
-    "Who was the first president of the United States?", "George Washington");
+var BasicCard = function(front, back) {
 
-// "Who was the first president of the United States?"
-console.log(firstPresident.front);
-
-// "George Washington"
-console.log(firstPresident.back);
+};
+module.exports = BasicCard;
+console.log("this is working")
